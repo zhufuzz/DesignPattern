@@ -6,7 +6,7 @@ public class Test {
 	{
 		private Abc() {
 		};
-		n1=new Abc();
+		//n1=new Abc();
 	}
 	
 	public class Cbd
@@ -34,7 +34,7 @@ public class Test {
 		
 		Abc n1,n2;
 		
-	n1=new Abc();
+	//n1=new Abc();
 		
 		
 		
