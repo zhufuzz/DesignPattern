@@ -15,5 +15,10 @@ public class GreenHeadDuck extends Duck {
 		// TODO Auto-generated method stub
 		System.out.println("**GreenHead**");
 	}
+	
+	//and override the inherited fly method here
+	public void fly (){
+		
+	}
 
 }
